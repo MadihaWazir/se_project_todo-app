@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This task app is built for daily planning, allowing users to easily check off or remove tasks as needed.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+With a clean interface and intuitive buttons, this app is powered by JavaScript and Form Validation to ensure seamless and dependable daily functionality.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+The code uses object-oriented programming to ensure fast loading, organized architecture, and easy adaptability for future updates and modifications.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+Link: https://madihawazir.github.io/se_project_todo-app/index.html
